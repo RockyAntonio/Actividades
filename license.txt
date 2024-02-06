@@ -1,0 +1,2 @@
+BSD-2-Clause
+Se usó esta licencia pues es al parecer es bastante común y simple. Una licencia humilde.

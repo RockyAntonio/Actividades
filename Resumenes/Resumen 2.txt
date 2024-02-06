@@ -1,0 +1,3 @@
+Resumen 2.
+Vimos conceptos generales de la programación, tipos de datos y operadores, estructuras de control condicionales, estructuras de control de bucles, control de flujo.
+Tablas de verdad entre otras cosas fueron clave.
